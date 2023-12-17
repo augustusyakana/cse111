@@ -1,0 +1,50 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+- The name of the program will be "sakau_connect.py"
+
+2. What real-world problem will your program address or help to solve?
+- This program is intended to be part of a larger software that is to be used
+by Pacific Isladers who are in the Sakau (KAVA) business and have a hard time reaching 
+their customers, let alone take orders from them. This programs main function is to 
+those businesses the ability to take online orders from their customers.
+
+3. What will you learn from developing this program?
+- The main thing I look forward to learn is to carefully plan and execute python projects
+successfully. It will provide the opportunity to review and strengthen my understanding of the
+lessons that I've learned in this class.
+
+4. What Python modules will your program use?
+- sakau_connect should use the following modules but is not limited these as well:
+csv, math, pytest, datetime
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+- My program will contain different functions
+
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+6. Will you write test functions to test at least two of your program
+functions?
+- Yes

@@ -1,0 +1,26 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+- When we started working with dictionaries and lists! Everything is so much 
+easier when you have functions. When you know you dont have to type multiple 
+lines of code again and again because you can put them in functions and then just 
+call that function.
+
+2. In your judgment, what is the value of test functions?
+- Test functions are a must! They provide the feedback that a syntax error, 
+file error, or other errors would not. They will tell you when there is human error. 
+
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+- The first thing I do is check the error message to see what kind of 
+error it is and identify where it went wrong. Next, I find the issue 
+and start brainstorming any possible corrections. I need to figure 
+out whether the problem is a file error, syntax error, or its something 
+wrong with the way I typed it out. Once I've exhausted all options, I 
+reach out to my mentors and even check on youtube or google. 
+
+

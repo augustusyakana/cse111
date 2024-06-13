@@ -104,7 +104,7 @@ def populate_window(mainFrm):
         order_button.config()
 
     
-    #Declare a variable for the order details passed from the get_order_details function
+    #variable for the order details passed from the get_order_details function
     # order = get_order_details(title_combobox, first_name_entry, last_name_entry, grade_combobox, condition_combobox, weight_entry)
     
     # create terms window

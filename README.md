@@ -1,4 +1,4 @@
-CSE 111 Class Repository
+# CSE 111 Class Repository
 
 Description: This repository contains coursework, assignments, 
 and resources for CSE 111: Programming with Functions using Python. 
